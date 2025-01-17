@@ -1,7 +1,7 @@
 {
     "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
     "version": "1",
-    "identifier": "google-cse",
+    "identifier": "lobe-google-cse",
     "author": "vsnthdev",
     "homepage": "https://github.com/vsnthdev/google-cse-lobechat",
     "gateway": "https://google-cse-lobechat.vercel.app/api/gateway",
